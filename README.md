@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @YigitKuplulu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @YigitKuplulu and I'm a freshman in Ihsan Dogramaci Bilkent University.
+- 👀 I’m interested in programming languages such as Java and Python!
+- 🌱 I’m currently studying at Bilkent University and I'm learning Java 
+- 📫 How to reach me ...  yigit.kuplulu@ug.bilkent.edu.tr
 
-<!---
-YigitKuplulu/YigitKuplulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
